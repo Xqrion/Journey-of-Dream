@@ -1,0 +1,52 @@
+/Arts
+/Plugins
+/Resources/Art/Texture
+/Resources/Art/ScenePicture
+*.meta
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.VC.db.meta
+*.sln.meta
+*.suo.meta
+*.user.meta
+*.unityproj.meta
+*.csproj.meta
+*.pidb.meta
+*.booproj.meta
+*.svd.meta
+
+# Visual Studio temporary files
+.vs/
+*.vssscc
+*.vspscc
+*.vssscc.meta
+*.vspscc.meta
+
+# ScriptableObject instances
+*.asset
+*.asset.meta
+
+# Compiled scripts and assemblies
+*.dll
+*.dll.meta
+*.exe
+*.exe.meta
+*.winmd
+*.winmd.meta
+*.xml
+*.xml.meta
